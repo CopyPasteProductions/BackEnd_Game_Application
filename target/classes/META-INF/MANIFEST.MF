@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: BackEnd_Game_Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tim
+Implementation-Vendor-Id: com.copypasteproductions
+Build-Jdk: 1.8.0_51
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
